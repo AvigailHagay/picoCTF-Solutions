@@ -20,13 +20,13 @@ This repository contains my personal solutions to challenges from picoCTF, a Cap
 ## 🗂️ Challenges Covered
 
 ### Web Exploitation
-* [dont-use-client-side](/web-exploitation/dont-use-client-side/)
+* [dont-use-client-side](./web-exploitation/dont-use-client-side)
 
 ### Cryptography 
-* [basic-mod2](/cryptography/basic-mod2/)
+* [basic-mod2](./cryptography/basic-mod2/)
 
 ### Forensics 
-* [hideme](/Forensics/hideme/)
+* [hideme](./Forensics/hideme/)
 
 ## 📖 How to Use This Repository
 
