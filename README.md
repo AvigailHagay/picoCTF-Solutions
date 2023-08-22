@@ -26,7 +26,7 @@ This repository contains my personal solutions to challenges from picoCTF, a Cap
 * [basic-mod2](./cryptography/basic-mod2/)
 
 ### Forensics 
-* [hideme](./Forensics/hideme/)
+* [hideme](./forensics/hideme/)
 
 ## 📖 How to Use This Repository
 
